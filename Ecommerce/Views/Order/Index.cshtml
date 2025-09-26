@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Products</h2>
+<div class="mb-3">
+    @{
+        var count = 0;
+
+        if (Session["cart"] != null)
+        {
+            var cart = (List<Ecommerce.DTO.ProductDTO>)Session["cart"];
+            count = cart.Count;
+        }
+
+    }
+
+    <div class="row">
+        <div class="col-9">
+            <a href="/order/cart" class="btn btn-primary">Cart(@count)</a>
+        </div>
+        <div class="col-3">
+            <a href="/customer/index" class="btn btn-primary">Orders</a>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-2">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">BDT @item.Price</p>
+                    <a href="/order/addtocart/@item.Id" class="btn btn-primary">Add to Cart</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
