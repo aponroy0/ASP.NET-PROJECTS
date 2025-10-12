@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\LostAndFound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{078BBA43-1C05-4C91-BF6E-61B4C7BF7788}|..\\DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\dot net\\dal\\interfaces\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078BBA43-1C05-4C91-BF6E-61B4C7BF7788}|..\\DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\dot net\\dal\\ef\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078BBA43-1C05-4C91-BF6E-61B4C7BF7788}|..\\DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\dot net\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078BBA43-1C05-4C91-BF6E-61B4C7BF7788}|..\\DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\dot net\\dal\\ef\\tables\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078BBA43-1C05-4C91-BF6E-61B4C7BF7788}|..\\DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\dot net\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBAC5F-B58C-4778-B4EA-8E22F5E12C73}|..\\BLL\\BLL.csproj|c:\\users\\lenovo\\desktop\\dot net\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\EF\\Tables\\Role.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\EF\\Tables\\Role.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\EF\\Tables\\Role.cs",
+              "RelativeToolTip": "..\\DAL\\EF\\Tables\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:14:40.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\Interfaces\\IAuditableEntity.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\Interfaces\\IAuditableEntity.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:32:33.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\EF\\MainContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\EF\\MainContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\EF\\MainContext.cs",
+              "RelativeToolTip": "..\\DAL\\EF\\MainContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T09:07:03.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\EF\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\EF\\Tables\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\EF\\Tables\\User.cs",
+              "RelativeToolTip": "..\\DAL\\EF\\Tables\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:51:22.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\DAL\\Class1.cs",
+              "RelativeToolTip": "..\\DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:57:36.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\BLL\\Class1.cs",
+              "RelativeToolTip": "..\\BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:57:17.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

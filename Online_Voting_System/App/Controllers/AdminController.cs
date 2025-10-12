@@ -73,7 +73,7 @@ namespace App.Controllers
 
 
 
-        [HttpPut]
+        [HttpPost]
         [Route("updateelection")] // API NO - 4
         public HttpResponseMessage Update(ElectionUpdateDTO e)
         {

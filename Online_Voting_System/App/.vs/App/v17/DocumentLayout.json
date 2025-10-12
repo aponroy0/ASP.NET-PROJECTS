@@ -3,11 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E22FB1E8-B951-4140-8AD6-918479F39783}|App.csproj|c:\\users\\lenovo\\desktop\\dot net\\online_voting_system\\app\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22FB1E8-B951-4140-8AD6-918479F39783}|App.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF34134-CD0D-41C6-BC3B-00B0F6F2C136}|..\\DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\dot net\\online_voting_system\\dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4D549E-CB76-46D6-8D87-E06D325FBACD}|..\\BLL\\BLL.csproj|c:\\users\\lenovo\\desktop\\dot net\\online_voting_system\\bll\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4D549E-CB76-46D6-8D87-E06D325FBACD}|..\\BLL\\BLL.csproj|c:\\users\\lenovo\\desktop\\dot net\\online_voting_system\\bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C4D549E-CB76-46D6-8D87-E06D325FBACD}|..\\BLL\\BLL.csproj|c:\\users\\lenovo\\desktop\\dot net\\online_voting_system\\bll\\services\\electionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E22FB1E8-B951-4140-8AD6-918479F39783}|App.csproj|c:\\users\\lenovo\\desktop\\dot net\\online_voting_system\\app\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22FB1E8-B951-4140-8AD6-918479F39783}|App.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C4D549E-CB76-46D6-8D87-E06D325FBACD}|..\\BLL\\BLL.csproj|c:\\users\\lenovo\\desktop\\dot net\\online_voting_system\\bll\\services\\electionsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4D549E-CB76-46D6-8D87-E06D325FBACD}|..\\BLL\\BLL.csproj|c:\\users\\lenovo\\desktop\\dot net\\online_voting_system\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,17 +32,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\App\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\App\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAIwL4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T18:54:13.946Z",
               "IsPinned": true,
@@ -43,16 +58,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\DAL\\EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\EF\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\DAL\\EF\\Models\\User.cs",
+              "RelativeToolTip": "..\\DAL\\EF\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:49:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\ReportService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\ReportService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T05:33:58.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T05:33:48.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\CandidateService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\CandidateService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T05:32:27.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElectionSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\ElectionSearchService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\ElectionSearchService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\ElectionSearchService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\ElectionSearchService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:18:47.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ElectionService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\ElectionService.cs",
               "RelativeDocumentMoniker": "..\\BLL\\Services\\ElectionService.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Dot Net\\Online_Voting_System\\BLL\\Services\\ElectionService.cs",
               "RelativeToolTip": "..\\BLL\\Services\\ElectionService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T12:08:37.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T12:08:37.657Z"
             }
           ]
         }
